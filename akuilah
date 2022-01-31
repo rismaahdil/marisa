@@ -1,1 +1,1 @@
-sleep 2s && sleep 2s
+sleep 1s && sleep 1s && sleep 2

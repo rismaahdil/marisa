@@ -1,1 +1,1 @@
-sleep 1s && sleep 1s
+lua
